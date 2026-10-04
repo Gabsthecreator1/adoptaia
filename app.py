@@ -21,8 +21,7 @@ st.set_page_config(
 # ============================================================
 
 FORMULARIO_ADOPCION = (
-    "https://docs.google.com/forms/d/"
-    "1Qn0jfZArUM6hcrw3n3Elz2TK6JhFq6Y4ukjcQmfWAl4/preview"
+    "https://docs.google.com/forms/d/1Qn0jfzArUM6hcrw3n3Elz2TK6JhFq6Y4ukjcQmfWAl4/preview"
 )
 
 
